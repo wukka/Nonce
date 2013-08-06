@@ -1,0 +1,5 @@
+.*
+wukka-*.phar*
+composer.lock
+vendor/*
+
